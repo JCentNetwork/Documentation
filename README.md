@@ -26,9 +26,13 @@ The JCent protocol maintains a certain proportion of native assets issued from t
 The JCent protocol token is JEN, with a total amount of 1000000 and will never be issued.
 
 Initial market 10%
+
 Staking mining 20%
+
 System asset pool 30%
+
 Operation team 10%
+
 Development team 30%
 
 
