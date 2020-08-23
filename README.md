@@ -49,6 +49,7 @@ JCent is committed to creating an innovative stable currency agreement, a stable
 
 #### Reference
 
+[Yearn Finance](http://yearn.finance/) 
 
 [MakerDao](https://makerdao.com)
 

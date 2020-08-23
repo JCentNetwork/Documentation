@@ -49,6 +49,8 @@ JCent致力于打造一个创新型稳定币协议，一个真正归属于社区
 
 #### 参考
 
+[Yearn Finance](http://yearn.finance/) 
+
 [MakerDao](https://makerdao.com)
 
 [JUST](https://just.network) 
