@@ -6,7 +6,7 @@ This paper will describe a new decentralized interest bearing stable currency pr
 
 ## JCent Protocol Overview
 
-Jcent protocol is an innovative experimental stable currency protocol. Users can use JCent approved assets as collateral to generate stable currency just. Second, JCent protocol maintains a decentralized JEN native asset pool. The assets of the asset pool belong to the protocol itself. Users can borrow just from this pool, and the lending process is implemented by JCent DAO management, the income generated is owned by the entire JCent protocol, and the income distribution is managed by JCent DAO, and is organized and operated by the community.
+Jcent protocol is an innovative experimental stable currency protocol. Users can use JCent approved assets as collateral to generate stable currency JUSD. Second, JCent protocol maintains a decentralized JEN native asset pool. The assets of the asset pool belong to the protocol itself. Users can borrow just from this pool, and the lending process is implemented by JCent DAO management, the income generated is owned by the entire JCent protocol, and the income distribution is managed by JCent DAO, and is organized and operated by the community.
 
 Jcent protocol is a kind of encryption protocol similar to MakerDao and JST. The biggest innovation of JCent is that JCent maintains a decentralized native asset pool, which is owned by all JEN holders and managed by the JEN holder community.
 
